@@ -66,5 +66,5 @@ VISUAL=vim crontab -e
 ```
 
 ## docker crontab設置
-
-[link](https://github.com/adiii717/docker-python-cronjob)
+### PS: 在windows環境下使用docker，無法正常使用crontab
+[example](https://github.com/adiii717/docker-python-cronjob)
